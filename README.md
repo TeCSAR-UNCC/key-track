@@ -1,4 +1,4 @@
 # Key-track: A lightweight scalable LSTM-based Pedestrian tracker for Surveillance systems
 #### This is the main respository for the Key-Track system for Multi-Pedestrian tracking in surveillance systems.
 
-The project aims at Muli-object tracking 
+The project aims at designing Muli-Pdestrian tracking system for surveillance cameras. 
